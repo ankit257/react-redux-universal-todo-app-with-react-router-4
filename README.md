@@ -5,8 +5,8 @@
 ## How to use
 
 ```
-$ git clone https://github.com/nverdhan/socket-chat-server.git
-$ cd socket-chat-server
+$ git clone https://github.com/ankit257/react-redux-universal-todo-app-with-react-router-4.git
+$ cd react-redux-universal-todo-app-with-react-router-4
 $ npm install
 $ node index
 ```
