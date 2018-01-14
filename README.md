@@ -1,4 +1,4 @@
-# React Redux server side rendering minimalistic boilerplate with Redux Router 4 and Webpack  
+# React Redux server side rendering minimalistic boilerplate with React Router 4 and Webpack  
 
 ## CSS and markup referred from https://codepen.io/saawsan/pen/jayzeq?q=todo&order=popularity&depth=title&show_forks=false
 
